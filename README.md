@@ -8,3 +8,5 @@
 
 將機器人加入好友，搶先試用!  
 <a href="https://lin.ee/m0kstvA"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png" alt="加入好友" height="36" border="0"></a>
+
+[創建、佈署line聊天機器人到heroku的步驟](https://github.com/daoxuewu/build-linechatbot-in-heroku)
